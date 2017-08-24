@@ -11,5 +11,6 @@ module.exports = {
   },
   deal: function(orderId, amount, yourRoomName) { return OK; },
   extendOrder: function(orderId, addAmount) { return OK; },
-  getAllOrders: function (filter = null) { return []; }
+  getAllOrders: function (filter = null) { return []; },
+  getOrderById: function (id) { return {}; }
 };

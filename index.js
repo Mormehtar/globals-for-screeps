@@ -9,3 +9,5 @@ require('./mineral');
 require('./nuke');
 require('./structure');
 require('./ownedStructure');
+require('./costMatrix');
+require('./resource');

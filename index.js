@@ -11,3 +11,4 @@ require('./structure');
 require('./ownedStructure');
 require('./costMatrix');
 require('./resource');
+require('./roomVisual');

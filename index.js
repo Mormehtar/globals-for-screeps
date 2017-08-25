@@ -27,3 +27,4 @@ require('./prototypes/structureKeeperLair');
 require('./prototypes/structureLab');
 require('./prototypes/structureLink');
 require('./prototypes/structureNuker');
+require('./prototypes/structureObserver');

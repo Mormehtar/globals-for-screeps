@@ -4,3 +4,4 @@ require('./pathfinder');
 require('./rawMemory');
 require('./roomObject');
 require('./constructionSite');
+require('./creep');

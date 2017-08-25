@@ -5,3 +5,4 @@ require('./rawMemory');
 require('./roomObject');
 require('./constructionSite');
 require('./creep');
+require('./mineral');

@@ -6,3 +6,4 @@ require('./roomObject');
 require('./constructionSite');
 require('./creep');
 require('./mineral');
+require('./nuke');

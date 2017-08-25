@@ -19,3 +19,4 @@ require('./prototypes/structureTerminal');
 require('./prototypes/structureStorage');
 require('./prototypes/room');
 require('./prototypes/roomPosition');
+require('./prototypes/source');

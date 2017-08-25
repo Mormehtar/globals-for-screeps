@@ -24,3 +24,4 @@ require('./prototypes/structureContainer');
 require('./prototypes/structureExtension');
 require('./prototypes/structureExtractor');
 require('./prototypes/structureKeeperLair');
+require('./prototypes/structureLab');

@@ -21,4 +21,5 @@ require('./prototypes/room');
 require('./prototypes/roomPosition');
 require('./prototypes/source');
 require('./prototypes/structureContainer');
-require('./prototypes/StructureExtension');
+require('./prototypes/structureExtension');
+require('./prototypes/structureExtractor');

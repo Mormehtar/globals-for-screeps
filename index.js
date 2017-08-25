@@ -16,3 +16,4 @@ require('./prototypes/resource');
 require('./prototypes/roomVisual');
 require('./prototypes/structureController');
 require('./prototypes/structureTerminal');
+require('./prototypes/structureStorage');

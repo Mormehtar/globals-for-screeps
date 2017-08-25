@@ -14,6 +14,34 @@ global.Creep = class Creep extends RoomObject {
     this._spawning = _spawning;
     this._ticksToLive = _ticksToLive;
   }
+
+  attack(target) { return OK; }
+  attackController(target) { return OK; }
+  build(target) { return OK; }
+  cancelOrder(methodName) { return OK; }
+  claimController(target) { return OK; }
+  dismantle(target) { return OK; }
+  drop(resourceType, amount) { return OK; }
+  generateSafeMode(controller) { return OK; }
+  getActiveBodyparts(type) { return 42; }
+  harvest(target) { return OK; }
+  heal(target) { return OK; }
+  move(direction) { return OK; }
+  moveByPath(path) { return OK; }
+  moveTo(x, y, opts) { return OK; }
+  notifyWhenAttacked(enabled) { return OK; }
+  pickup(target) { return OK; }
+  rangedAttack(target) { return OK; }
+  rangedHeal(target) { return OK; }
+  rangedMassAttack() { return OK; }
+  repair(target) { return OK; }
+  reserveController(target) { return OK; }
+  say(message, public) { return OK; }
+  signController(target, text) { return OK; }
+  suicide() { return OK; }
+  transfer(target, resourceType, amount) { return OK; }
+  upgradeController(target) { return OK; }
+  withdraw(target, resourceType, amount) { return OK; }
 };
 
 Object.defineProperty(Creep, 'body', {

@@ -4,6 +4,7 @@ require('./objects/game');
 require('./objects/pathfinder');
 require('./objects/rawMemory');
 require('./objects/costMatrix');
+require('./objects/memory');
 
 require('./prototypes/roomObject');
 require('./prototypes/constructionSite');

@@ -1,11 +1,9 @@
 {
   "name": "globals-for-screeps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Globals for Screeps game.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mormehtar/globals-for-screeps.git"
@@ -14,7 +12,10 @@
     "Screeps",
     "globals"
   ],
-  "author": "Dark Rider",
+  "author": {
+    "name" : "Ilya Volkov",
+    "email" : "mormehtar@gmail.com"
+  },
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Mormehtar/globals-for-screeps/issues"

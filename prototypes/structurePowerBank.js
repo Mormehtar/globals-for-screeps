@@ -6,7 +6,7 @@ global.StructurePowerBank = class StructurePowerBank extends Structure {
   }
 };
 
-Object.defineProperty(StructurePowerBank, '_power', {
+Object.defineProperty(StructurePowerBank, 'power', {
   get() { return this._power; }
 });
 Object.defineProperty(StructurePowerBank, 'ticksToDecay', {

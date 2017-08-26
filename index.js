@@ -29,3 +29,4 @@ require('./prototypes/structureLink');
 require('./prototypes/structureNuker');
 require('./prototypes/structureObserver');
 require('./prototypes/structurePowerBank');
+require('./prototypes/structurePowerSpawn');

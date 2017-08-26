@@ -35,3 +35,4 @@ require('./prototypes/structureRampart');
 require('./prototypes/structureRoad');
 require('./prototypes/structureSpawn');
 require('./prototypes/structureTower');
+require('./prototypes/structureWall');

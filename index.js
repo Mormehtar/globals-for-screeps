@@ -30,3 +30,4 @@ require('./prototypes/structureNuker');
 require('./prototypes/structureObserver');
 require('./prototypes/structurePowerBank');
 require('./prototypes/structurePowerSpawn');
+require('./prototypes/structurePortal');

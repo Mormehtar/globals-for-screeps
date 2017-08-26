@@ -36,3 +36,5 @@ require('./prototypes/structureRoad');
 require('./prototypes/structureSpawn');
 require('./prototypes/structureTower');
 require('./prototypes/structureWall');
+
+require('./libraries');

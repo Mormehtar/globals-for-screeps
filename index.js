@@ -33,3 +33,4 @@ require('./prototypes/structurePowerSpawn');
 require('./prototypes/structurePortal');
 require('./prototypes/structureRampart');
 require('./prototypes/structureRoad');
+require('./prototypes/structureSpawn');
